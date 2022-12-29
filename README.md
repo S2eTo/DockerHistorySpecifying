@@ -1,4 +1,4 @@
-# History 详细
+# 简介
 
 DockerHistorySpecifying 可以帮助你拿到 history 中手动 ADD 与 COPY 的文件
 
