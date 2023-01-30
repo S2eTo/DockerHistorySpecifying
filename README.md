@@ -34,8 +34,8 @@ image = DockerEngine().get_image("docker.io/vulhub/fastjson:1.2.24")
 print(image.get_history())
 ```
 
-![img.png](screenshots/img.png)
+![img.png](./screenshots/img.png)
 
 输出
 
-![img.png](screenshots/img1.png)
+![img.png](./screenshots/img1.png)
